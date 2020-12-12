@@ -1,1 +1,1 @@
-# SHARE-CARE
+# GreenPin-0.2
